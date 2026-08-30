@@ -85,6 +85,7 @@ Chunk Size Adjustments: Modify document chunking inside app.py under the Recursi
 
 Python
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50
+
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 rag ollama streamlit pdf-analysis langchain chromadb python local-ai llama3 document-intelligence
